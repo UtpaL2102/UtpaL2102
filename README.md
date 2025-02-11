@@ -1,6 +1,5 @@
 ![MasterHead](https://www.panthercmms.com/img/machine-learning.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priyadarshi Uttpal</h1>
-<h3 align="center">Diving deep into the world of Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/41/3b/2e413b52ae8c4df39062ac21f46c9aa7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utpal2102&label=Profile%20views&color=0e75b6&style=flat" alt="utpal2102" /> </p>
