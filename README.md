@@ -4,17 +4,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyadarshi+Utpal!;+Aspiring+ML+Engineer+🚀;" />
 </h1>
-<h3 align="center">An aspiring Machine Learning Engineer, AI Enthusiast, and Backend Developer from INDIA</h3>
+<h3 align="center">An aspiring tech enthusiast specializing in Machine Learning, Data Science, and Python-based backend development from India.</h3>
 
 <div align="center">
 
  🔭 I’m currently working on **AI-powered Insider Trading & Crypto Market Manipulation Detection**
  
- 🌱 I’m currently learning **Transformers, Retrieval-Augmented Generation (RAGs), Advanced Flask, PyTorch, Docker**
+ 🌱 I’m currently learning **Transformers, Retrieval-Augmented Generation (RAGs), Advanced Flask, and AI for FInTech**
 
-💬 Ask me about **Machine Learning, AI, Python, Open Source, and Fact-Checking Systems**
-
-⚡ Fun fact **Did you know that AI Fact-Checkers can reduce misinformation by 50%?**
+ 🚀  **Still a long journey ahead, so much to learn, so much to build!**
 
 </div>
 
