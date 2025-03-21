@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/priyadarshi-uttpal-731821236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/utpal2102" target="_blank">
+  <a href="https://github.com/UtpaL2102" target="_blank">
      <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
 </div>
  <hr/>
