@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **Transformers, Retrieval-Augmented Generation (RAGs)**
 - 💬 Ask me about **Machine Learning, AI, Python, Open Source**
-- 📫 Reach me at: **priyadarshiutpal06@gmail.com**
+- 📧 Reach me at: **priyadarshiutpal06@gmail.com**
 - 📄 [My LinkedIn Profile](https://www.linkedin.com/in/priyadarshi-utpal-731821236/)
 
 ---
@@ -51,6 +51,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utpal2102&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpal2102&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 🌟 GitHub Achievements
+- **Total Stars Earned:** 8
+- **Total Commits (2025):** 19
+- **Total Contributions:** 68
+- **Current Streak:** 0 (Mar 21, 2025)
+- **Longest Streak:** 3 Days (Feb 28 - Mar 1, 2024)
 
 ---
 
