@@ -20,7 +20,7 @@
   <a href="mailto:priyadarshiutpal06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/priyadarshi-utpal-731821236/" target="_blank">
+  <a href="https://www.linkedin.com/in/priyadarshi-uttpal-731821236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/utpal2102" target="_blank">
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,django,docker,aws,mysql,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,redis,opencv" /><br>
+    <img src="https://skillicons.dev/iconsi=python,tensorflow,pytorch,sklearn,flask,django,fastapi,mysql,git,docker,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=rag,langchain,transformers,gradio,streamlit" /><br>
 </div>
 
 <br/>
