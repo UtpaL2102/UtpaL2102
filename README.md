@@ -31,9 +31,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/iconsi=python,tensorflow,pytorch,sklearn,flask,django,fastapi,mysql,git,docker,raspberrypi" />
-    <img src="https://skillicons.dev/icons?i=rag,langchain,transformers,gradio,streamlit" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,django,fastapi,mysql,git,docker,raspberrypi" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=transformers,gradio,streamlit" />
+    <br>
+    <img src="https://img.shields.io/badge/RAG-Informational?style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/badge/LangChain-Important?style=for-the-badge&color=green" />
 </div>
+
 
 <br/>
 <hr/>
